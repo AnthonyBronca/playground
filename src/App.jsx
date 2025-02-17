@@ -18,7 +18,7 @@ const routes = createBrowserRouter([
 function App() {
 
   return <RouterProvider
-  basename="https://anthonybronca.github.io/playground/"
+  // basename="https://anthonybronca.github.io/playground/"
   router={routes}/>
 }
 
